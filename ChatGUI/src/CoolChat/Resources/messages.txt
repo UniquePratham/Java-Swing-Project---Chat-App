@@ -1,0 +1,33 @@
+-- Alice
+Hi Pratham, how are you?
+You : I'm good, thanks! How about you?
+-- Bob
+Hey Pratham, I'm doing great!
+What about you?
+You : That's awesome to hear Bob.
+You : I am doing great as well.
+-- Charlie
+Hello Mr.Pratham!
+This chat app looks cool.
+You : Thanks Charlie, But a lot improvement is needed.
+-- Alice
+I agree, it's pretty neat.
+-- Eve
+Testing out the chat.
+This is fun!
+-- Bob
+Nice to hear that dude!
+-- Charlie
+You : Okay Charlie!
+Hmm! When are you coming to farm?
+You : Lets See
+-- Eve
+You : Yes! Indeed
+You : Hello
+You : What are you doing?
+-- Alice
+You : Hello
+-- Charlie
+You : Okay bye then
+-- Eve
+You : When you are coming?
