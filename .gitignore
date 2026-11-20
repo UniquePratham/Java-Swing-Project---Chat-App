@@ -54,3 +54,6 @@ coverage/
 # Misc
 *.tsbuildinfo
 .cache/
+
+# Vercel local state (contains project tokens)
+.vercel/
