@@ -11,3 +11,15 @@ Java Swing desktop chat client. Open the project in an IDE and run `ChatApp`.
 ## License
 
 MIT - see [LICENSE](LICENSE).
+
+## Running
+
+**Desktop application (Java Swing)**
+
+```bash
+cd ChatGUI
+javac -d out src/CoolChat/*.java
+java -cp out CoolChat.ChatApp
+```
+
+Requires JDK 8 or newer.
